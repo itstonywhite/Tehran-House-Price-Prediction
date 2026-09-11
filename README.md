@@ -61,4 +61,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter joblib
 
 _This is my very first machine learning project :)_
 
-\- [Tony White ✍️](https://github.com/itstonywhite)
+\- [Tony White](https://github.com/itstonywhite) ✍️

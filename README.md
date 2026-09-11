@@ -52,7 +52,7 @@ git clone https://github.com/itstonywhite/Tehran-House-Price-Prediction.git
 2. Make sure you have the required libraries installed:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn joblib
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter joblib
 ```
 
 3. Open `House Price Prediction.ipynb` using Jupyter Notebook, Google Colab or VS Code and run all cells.

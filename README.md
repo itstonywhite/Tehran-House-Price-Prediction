@@ -38,10 +38,28 @@ The model's performance was evaluated using standard regression metrics.
 - **R-squared (R2 Score)**: Demonstrates the variance explained by the model.
 - **Mean Absolute Error (MAE)**: Shows the average absolute difference between actual and predicted prices.
 
-_(Check the Jupyter Notebook for exact current metrics and the Actual vs. Predicted scatter plot)._
+* **Mean Squared Error (MSE)**: Penalizes larger errors by squaring the differences before averaging, providing insight into the model's variance.
 
-## How to Run
+## 📦 Installation Guide
 
-1. Clone the repository.
-2. Ensure you have the required libraries installed: `pip install pandas numpy scikit-learn matplotlib seaborn`
-3. Open `Notebook.ipynb` using Jupyter Notebook or VS Code and run all cells sequentially.
+Follow these steps to set up the project on your local machine:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/itstonywhite/tehran-house-price-prediction.git
+```
+
+2. Make sure you have the required libraries installed:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn joblib
+```
+
+3. Open `House Price Prediction.ipynb` using Jupyter Notebook, Google Colab or VS Code and run all cells.
+
+---
+
+_This is my very first machine learning project :)_
+
+\- [Tony White ✍️](https://github.com/itstonywhite)

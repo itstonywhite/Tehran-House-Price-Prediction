@@ -46,7 +46,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/itstonywhite/tehran-house-price-prediction.git
+git clone https://github.com/itstonywhite/Tehran-House-Price-Prediction.git
 ```
 
 2. Make sure you have the required libraries installed:

@@ -45,6 +45,10 @@ The model's performance was evaluated using standard regression metrics:
 - **Mean Absolute Error (MAE)**: Shows the average absolute difference between actual and predicted prices.
 - **Mean Squared Error (MSE)**: Penalizes larger errors by squaring the differences before averaging, providing insight into the model's variance.
 
+**💪 Model's Performance on the Test Dataset :**
+
+![Model's Performance](./Plots/model's%20performance.png)
+
 ## 📦 Installation Guide
 
 Follow these steps to set up the project on your local machine:

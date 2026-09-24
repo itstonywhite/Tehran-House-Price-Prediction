@@ -4,6 +4,19 @@
 
 This project applies Machine Learning techniques to predict house prices in Tehran based on a dataset of approximately 4,000 real estate listings. Using **Multiple Linear Regression**, the model estimates the price of a property given its specific features.
 
+## 👾 Technologies Used
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
+
+**📥 Install required packages:**
+
+```text
+pip install numpy pandas scipy matplotlib seaborn scikit-learn joblib
+```
+
 ## 🛢️ Dataset
 
 The dataset (`housePrice.csv`) contains real-world housing data in Tehran with the following features:
@@ -23,13 +36,6 @@ The dataset (`housePrice.csv`) contains real-world housing data in Tehran with t
 2. **Feature Engineering**: Applied **One-Hot Encoding** to handle the categorical `Address` variable and boolean features.
 3. **Scaling**: Used `StandardScaler` to normalize data distributions prior to training.
 4. **Modeling**: Built and trained a Multiple Linear Regression model using `sklearn`.
-
-## 👾 Technologies Used
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 
 ## 📝 Results
 
